@@ -4,8 +4,7 @@ The music exploration field is pretty vast, but we need to take a look at the cu
 #### Current solutions
 __YouTube Music__ and __Spotify__ offer personalized playlists such as: Discover Mix, New Release Mix and My Supermix on Youtube, Discover Weekly, Release Radar and Daily Mixes on Spotify. But after that, there are not that many other __easy__ ways available for users.
 #### My solution
-My approach has a __more personal approach__ with the user because he receives new
-songs based on how he's __feeling__ at the moment. This way, the bias in which one receives most of the new tracks similar or related to what he already likes is eliminated, thus being more beneficial for those who wants to really discover new music.
+My solution uses a __more personal approach__ with the user because he receives new songs based on how he's __feeling__ at the moment. This way, the bias in which one receives most of the new tracks similar or related to what he already likes is eliminated, thus being more beneficial for those who wants to really discover new music.
 #### Demo _- from your emotions to a fitting song_
 `This demo was done in an earlier version of the app`
 | App's home  | Detecting state | Detection results | Link to a Spotify song |
