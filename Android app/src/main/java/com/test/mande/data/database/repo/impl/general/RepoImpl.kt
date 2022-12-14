@@ -41,8 +41,6 @@ class RepoImpl(private val service: Service) : Repo {
                             HomeActivity.predominantEmotion = it[0].emotions.predominantEmotion()
                             getSongBtn.visibility = View.VISIBLE
                             getSongBtn.isEnabled = true
-                            /*val end = System.currentTimeMillis()
-                            println("TIME AAAAAA ${(end - start)} ms")*/
                         } else {
                             textView.text = "Result: failed. Make sure your face is clearly visible and the picture is steady."
                         }
