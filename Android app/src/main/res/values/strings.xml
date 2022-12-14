@@ -1,0 +1,16 @@
+<resources>
+    <!--==========APP==========-->
+    <string name="app_name">mande</string>
+
+    <!--==========UTIL==========-->
+    <string name="app_placeholder">Placeholder</string>
+
+    <!--==========Home Activity==========-->
+    <!--==========Home has no fragments==========-->
+    <string name="home_grantCameraPermission">Grant camera permission to use the app.</string>
+    <string name="home_scanFace">Detect emotions by taking a face photo.</string>
+    <string name="home_pleaseWait">Processing… please wait</string>
+    <string name="home_detectEmotionsBtn">Detect emotions</string>
+    <string name="home_rescanBtn">Rescan</string>
+    <string name="home_getSongBtn">Get song</string>
+</resources>

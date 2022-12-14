@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/app_layout_style">
+
+    <TextView
+        android:id="@+id/emotionResult"
+        style="@style/app_textView_style"
+        android:autoLink="web"
+        android:text="@string/home_scanFace"
+        android:layout_marginTop="@dimen/app_view_x1"
+        android:layout_marginEnd="@dimen/app_view_x2"
+        android:layout_marginStart="@dimen/app_view_x2"
+        app:layout_constraintBottom_toBottomOf="@null"/>
+
+    <androidx.camera.view.PreviewView
+        android:id="@+id/viewFinder"
+        style="@style/app_base_style"
+        android:layout_marginTop="@dimen/app_view_x1"
+        app:layout_constraintTop_toTopOf="@null"
+        app:layout_constraintTop_toBottomOf="@id/emotionResult"
+        app:layout_constraintBottom_toBottomOf="@null"
+        app:layout_constraintBottom_toTopOf="@id/detectEmotionBtn"/>
+
+    <ImageView
+        android:id="@+id/previewImage"
+        android:visibility="gone"
+        style="@style/app_base_style"
+        android:layout_marginTop="@dimen/app_view_x1"
+        app:layout_constraintTop_toTopOf="@null"
+        app:layout_constraintTop_toBottomOf="@id/emotionResult"
+        app:layout_constraintBottom_toBottomOf="@null"
+        app:layout_constraintBottom_toTopOf="@id/detectEmotionBtn"/>
+
+    <Button
+        android:id="@+id/detectEmotionBtn"
+        android:visibility="visible"
+        style="@style/app_btn_style"
+        android:text="@string/home_detectEmotionsBtn"
+        app:layout_constraintTop_toTopOf="@null"/>
+
+    <Button
+        android:id="@+id/retryBtn"
+        android:visibility="gone"
+        android:enabled="false"
+        style="@style/app_btn_style"
+        android:text="@string/home_rescanBtn"
+        app:layout_constraintTop_toTopOf="@null"
+        app:layout_constraintEnd_toEndOf="@null"
+        app:layout_constraintEnd_toStartOf="@id/getSongBtn"/>
+
+    <Button
+        android:id="@+id/getSongBtn"
+        android:visibility="gone"
+        android:enabled="false"
+        style="@style/app_btn_style"
+        android:text="@string/home_getSongBtn"
+        android:layout_marginStart="@dimen/app_view_x1"
+        app:layout_constraintTop_toTopOf="@null"
+        app:layout_constraintStart_toStartOf="@null"
+        app:layout_constraintStart_toEndOf="@id/retryBtn"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
