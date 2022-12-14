@@ -2,7 +2,7 @@
 #### A short introduction
 The music exploration field is pretty vast, but we need to take a look at the current existing solutions of exploration in order to see the benefits of the solution implemented by this project.
 #### Current solutions
-__YouTube Music__ and __Spotify__ offer personalized playlists such as the Discover Mix, New Release Mix, My Supermix on Youtube and the Discover Weekly, Release Radar, Daily Mixes on Spotify, but after that, there are not that many other __easy__ ways available for users.
+__YouTube Music__ and __Spotify__ offer personalized playlists such as: Discover Mix, New Release Mix and My Supermix on Youtube, Discover Weekly, Release Radar and Daily Mixes on Spotify. But after that, there are not that many other __easy__ ways available for users.
 #### My solution
 My approach has a __more personal approach__ with the user because he receives new
 songs based on how he's __feeling__ at the moment. This way, the bias in which one receives most of the new tracks similar or related to what he already likes is eliminated, thus being more beneficial for those who wants to really discover new music.
