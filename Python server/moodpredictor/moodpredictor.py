@@ -23,7 +23,7 @@ def load_or_create_songs_with_mood_csv(min_popularity):
         return df_songs_with_mood
     except:
         df_songs_without_mood = get_df_songs_without_mood(min_popularity)
-        df_trained = pd.read_csv(path + '/../../Dataset/700_tracks_to_train.csv')
+        df_trained = pd.read_csv(path + '/../../Dataset/700_tracks_prelabeled_for_train.csv')
         moods = df_trained['mood']
         encoder = LabelEncoder()
         encoder.fit(moods)
