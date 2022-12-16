@@ -24,6 +24,6 @@ Sorry, but that is not easily possible right now ☹️ Why? Well:
 - It is uploaded to Heroku, but it no longer supports free web apps.
 - If I put the apk here, Android will tell you it is not safe, and I think that not many will install it. Adding it to PlayStore is, unfortunately, also not free.
   
-Overall, I think it's not worth paying right now as, maybe, not many will really play with it.  
+Overall, I think it is not worth paying right now as, maybe, not many will really play with it.  
 __But__, if you want, I may do a __live demo__ of the app anytime, just write me an email at: danut.gavrus@gmail.com.  
 Also, you are free to explore the code here if you want.
