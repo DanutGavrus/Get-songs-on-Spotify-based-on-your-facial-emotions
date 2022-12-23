@@ -10,7 +10,7 @@ This was done in an __earlier__ version of the app.
 ###### Flow - from your emotions to a fitting song
 | App's home  | Detecting state | Detection results | Link to a Spotify song |
 | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%201.jpg" width="250">  | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%202.jpg" width="250">  | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%203.jpg" width="250"> | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%204.jpg" width="250">
+| <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%201.jpg" width="250">  | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%202.jpg" width="247">  | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%203.jpg" width="247"> | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%204.jpg" width="250">
 ###### Happy friends trying the app 😄
 | Dehe  | Enia | Arthur |
 | ------------- | ------------- | ------------- |
