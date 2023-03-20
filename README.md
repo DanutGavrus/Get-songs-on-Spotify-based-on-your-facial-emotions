@@ -10,15 +10,15 @@ This was done in an __earlier__ version of the app.
 ###### Flow - from your emotions to a fitting song
 | App's home  | Detecting state | Detection results | Link to a Spotify song |
 | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%201.jpg" width="250">  | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%202.jpg" width="247">  | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%203.jpg" width="247"> | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%204.jpg" width="250">
+| <img src="https://user-images.githubusercontent.com/56603839/226365933-202eabe3-ad45-42cc-a7b6-9fbf1c99e57c.png" width="250">  | <img src="https://user-images.githubusercontent.com/56603839/226366091-7ec10dec-c5a9-4628-b98d-9a8d59b1f80d.png" width="247">  | <img src="https://user-images.githubusercontent.com/56603839/226366155-c14b9295-f3b8-420c-83e7-d185af9d65b9.png" width="247"> | <img src="https://user-images.githubusercontent.com/56603839/226366199-9da0ca7b-a2d1-4dea-96e8-84fc645e55ab.png" width="250">
 ###### Happy friends trying the app 😄
 | Dehe  | Enia | Arthur |
 | ------------- | ------------- | ------------- |
-| <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%205.jpg" width="250">  | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%206.jpg" width="250">  | <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%207.jpg" width="250">
+| <img src="https://user-images.githubusercontent.com/56603839/226366522-4eb776d7-7462-4fea-b37f-eb35fae3e012.png" width="250">  | <img src="https://user-images.githubusercontent.com/56603839/226366569-f3f005fc-b052-41b3-bcec-1c3c2db97881.png" width="250">  | <img src="https://user-images.githubusercontent.com/56603839/226366606-e0123602-a51e-474e-ba3e-0a179d55ca81.png" width="250">
 ###### Reproduction of the angry mood 😠
 | Danut |
 | ------------- 
-| <img src="https://github.com/DanutGavrus/Photos/blob/master/11.%20Emotion%20to%20song%208.jpg" width="250">  |
+| <img src="https://user-images.githubusercontent.com/56603839/226366858-1bc26a5b-eea0-4b2a-8cd9-8bb3cde5d46c.png" width="250">  |
 #### Want to try the app?
 Sorry, but that is not easily possible right now ☹️ Why? Well:
 - It is uploaded to Heroku, but it no longer supports free web apps.
