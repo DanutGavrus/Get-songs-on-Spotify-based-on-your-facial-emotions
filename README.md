@@ -1,4 +1,4 @@
-## Get songs on Spotify based on your emotions
+## Get songs on Spotify based on your emotions 
 #### A short introduction
 The music exploration field is pretty vast, but we need to take a look at the current existing solutions of exploration in order to see the benefits of the solution implemented by this project.
 #### Current solutions
